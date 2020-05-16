@@ -1,0 +1,10 @@
+.fa-btn {
+  margin-left: 10px;
+  color: blue;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 35px;
+  border-radius: 100px;
+  border-color: black;
+}
